@@ -33,6 +33,7 @@ parameters:
 shopware:
     profiler:
         integrations:
+            - Symfony
             - Sentry
 
 sentry:
